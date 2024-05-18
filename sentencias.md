@@ -1,18 +1,18 @@
 # Tarea TAS7 - Events
-## 1. Listar los asistentes mayores a 30 anos al evento
-### Sentencia:
+1. Listar los asistentes mayores a 30 anos al evento
+- Sentencia:
 ```
 SELECT ....
 ```
-### Captura:
+- Captura:
 
 <img src="./capturas/sentence01.png" alt="drawing" width="500"/>
 
-## 2. Listar los eventos ..
-### Sentencia:
+2. Listar los eventos ..
+- Sentencia:
 ```
 SELECT ....
 ```
-### Captura:
+- Captura:
 
 <img src="./capturas/sentence01.png" alt="drawing" width="500"/>
