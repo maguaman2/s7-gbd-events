@@ -5,4 +5,5 @@
 SELECT ....
 ```
 *Captura*
-![sentence01](./capturas/sentence01.png){width=5px}
+
+<img src="./capturas/sentence01.png" alt="drawing" width="200"/>
