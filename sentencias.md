@@ -5,4 +5,4 @@
 SELECT ....
 ```
 *Captura*
-![texto_alternativo](ubicacion_de_la_imagen){width=width height=height}
+![sentence01](./capturas/sentence01.jpg){width=900px}
