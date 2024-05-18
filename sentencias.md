@@ -5,4 +5,4 @@
 SELECT ....
 ```
 *Captura*
-![sentence01](./capturas/sentence01.jpg){width=900px}
+![sentence01](./capturas/sentence01.png){width=900px}
