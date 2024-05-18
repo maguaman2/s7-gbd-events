@@ -6,4 +6,4 @@ SELECT ....
 ```
 *Captura*
 
-<img src="./capturas/sentence01.png" alt="drawing" width="200"/>
+<img src="./capturas/sentence01.png" alt="drawing" width="500"/>
